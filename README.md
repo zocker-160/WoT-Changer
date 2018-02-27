@@ -10,4 +10,6 @@ This is a small and easy tool for disabling the torrent download in World of Tan
 
 
 it's possible that you have to run **WoT-Changer** after every update of the WoT Client / Game because this may activate the torrent download again.
+
+
 (Wargaming doesn't want you to use the direct download ;) )
