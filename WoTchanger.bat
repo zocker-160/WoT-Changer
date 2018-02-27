@@ -1,1 +1,0 @@
-cmd.exe /C "php\php.exe WoTchanger.php"
