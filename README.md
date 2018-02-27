@@ -15,8 +15,7 @@ it's possible that you have to run **WoT-Changer** after every update of the WoT
 
 ### supported OS
 
-  - Windows 7 64bit and up
-  - 32 bit support coming soon
+  - Windows 7 32bit/64bit and up
 
 ### dependecies
 
