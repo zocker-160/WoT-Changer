@@ -4,7 +4,7 @@ This is a small and easy tool for disabling the torrent download in World of Tan
 
 ## how to use it
 
-1. Download [here](www.google.de)
+1. Download [here](https://github.com/zocker-160/WoT-Changer/releases)
 2. Copy the `WoT-Changer.exe` into your World of Tanks installation folder
 3. run it ;)
 
