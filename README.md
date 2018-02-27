@@ -20,3 +20,7 @@ it's possible that you have to run **WoT-Changer** after every update of the WoT
 ### dependecies
 
 you need Visual C++ Redistributable for Visual Studio 2015
+
+### general information
+
+there will be a version for World of Warships soon
