@@ -17,7 +17,7 @@ it's possible that you have to run **WoT-Changer** after every update of the WoT
 
   - Windows 7 32bit/64bit and up
 
-### dependecies
+### dependencies
 
 you need Visual C++ Redistributable for Visual Studio 2015
 
