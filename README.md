@@ -1,4 +1,7 @@
 # WoT-Changer
+
+**this does not work anymore due to the new wargaming launcher**
+
 This is a small and easy tool for disabling the torrent download in World of Tanks
 
 
@@ -20,7 +23,3 @@ it's possible that you have to run **WoT-Changer** after every update of the WoT
 ### dependencies
 
 you need Visual C++ Redistributable for Visual Studio 2015
-
-### general information
-
-there will be a version for World of Warships soon
